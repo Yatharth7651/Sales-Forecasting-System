@@ -108,7 +108,8 @@ http://127.0.0.1:5000/
 - Performance metrics  
 
 <img width="1919" height="589" alt="Screenshot 2026-04-22 214240" src="https://github.com/user-attachments/assets/455155a5-e2ab-45de-ab42-6aab51484496" />
-<img width="1883" height="937" alt="Screenshot 2026-04-22 214248" src="https://github.com/user-attachments/assets/f6e927db-6adb-452b-a9aa-dcc9057e8a44" />
+<img width="1862" height="902" alt="Screenshot 2026-04-22 223725" src="https://github.com/user-attachments/assets/3d571872-ed4f-4f3e-b22c-251750b9f3b8" />
+
 <img width="1887" height="430" alt="Screenshot 2026-04-22 214259" src="https://github.com/user-attachments/assets/d10fdc09-cee4-4312-ae5b-d50ccedda812" />
 <img width="1884" height="763" alt="Screenshot 2026-04-22 214305" src="https://github.com/user-attachments/assets/b4aef10c-f3dc-4a43-9ee1-5898641934a0" />
 <img width="1881" height="468" alt="Screenshot 2026-04-22 214312" src="https://github.com/user-attachments/assets/e76c08a4-c8e1-49a8-8701-76f9039a3745" />
